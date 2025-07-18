@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AnnualMedia1328
+- 👋 Hi, I’m @certainkund
 - 👀 I’m interested in cracking hashes.
 - 🌱 I’m currently learning cracking hashes.
 - 💞️ I’m looking to collaborate on cracking hashes.
-- 📫 How to reach me lapsikmees@proton.me
+- 📫 How to reach me andrias@kundtec.com
 - 😄 Pronouns: cracking/hashes
 - ⚡ Fun fact: I like to crack hashes.
